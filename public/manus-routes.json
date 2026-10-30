@@ -1,0 +1,13 @@
+{
+  "routes": [
+    { "path": "/", "title": "Home" },
+    { "path": "/courses", "title": "Explore Courses" },
+    { "path": "/courses/:slug", "title": "Course Details" },
+    { "path": "/faculty", "title": "Faculty" },
+    { "path": "/results", "title": "Results & Achievements" },
+    { "path": "/about", "title": "About" },
+    { "path": "/contact", "title": "Contact & Enquire" },
+    { "path": "/privacy", "title": "Privacy Policy" },
+    { "path": "/terms", "title": "Terms & Conditions" }
+  ]
+}
